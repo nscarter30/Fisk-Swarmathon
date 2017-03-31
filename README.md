@@ -1,2 +1,2 @@
 # Fisk-Swarmathon
-This is the read me file.
+This repository is being used for the NASA Swarmathon competition. In it you will find an outreach report detailing what our team, Fisk University's rocket team, has done in terms of our outreach to the community and surrounding schools. The other report is a technical report detailing the work we did in terms of coding and meeting for the Swarmathon competition. The mobility file contains the actual code that we were working with for the competition. 
